@@ -8,7 +8,7 @@ In this project, I test four different acquisation functions
 - Gaussian Process Upper Confidence Bound (GP-UCB)
 - Approximation of GB-UCB
 
-First, I optimize the learning rate, the number of leaves, the feature fraction, and the l2-regularization in a sequantial manner, such that each of them I optimized individually. An example of BO with five initial samples and when 30 iterations can be seen below.
+First, I optimize the learning rate, the number of leaves, the feature fraction, and the l2-regularization in a sequantial manner, such that each of them I optimized individually. An example of BO with five initial samples, 30 iterations and the acquisition function *probability of improvement* is shown below.
 
 ![](learning_rate_prob_improvement.gif)
 
