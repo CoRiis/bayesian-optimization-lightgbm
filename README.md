@@ -1,1 +1,1 @@
-# bayesian-optimization-lightgbm
+# Bayesian Optimization: Hyper-parmeter tuning for LightGBM.
