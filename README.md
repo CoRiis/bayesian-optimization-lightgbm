@@ -2,7 +2,7 @@
 
 In this project, I use Bayesian Optimization (BO) to tune a [LightGBM](https://lightgbm.readthedocs.io/en/latest/). The data set used is of less importance, however, the data set consists of 16 features from 50k posts from the social media Instagram. 
 
-In this project, I test four different acquisation functions
+In this project, I test four different acquisition functions
 - Probability of improvement
 - Expected improvement
 - Gaussian Process Upper Confidence Bound (GP-UCB)
